@@ -1,6 +1,6 @@
-1. [Link]Parallel Tranking 병렬트랙킹(http://esther9998.github.io/transDoc)
-
-
+1. [Parallel Tranking 병렬트랙킹](http://esther9998.github.io/transDoc)
+2. [Parallel Tranking 병렬트랙킹](http://esther9998.github.io/transDoc)
+3. [Parallel Tranking 병렬트랙킹](http://esther9998.github.io/transDoc)
 
 1. parallel -  클릭후에 닫아도, 클릭수가 카운트됨.
 	2. per-click IDs - 클릭 했을때, url에 파라미터 붙여서 보내준다. 왜냐면 병렬 트랙킹은 트랙킹서버로 가기때문에 해당 id데이터를 final 에 보낼수 없기 때문이다. 
