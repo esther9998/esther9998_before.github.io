@@ -1,7 +1,8 @@
-https://support.google.com/analytics/answer/6180144?hl=en&ref_topic=6010089
-Treemaps 이란?
-트리맵 리포트는 시각적으로 트랜디한 채널을 알게 해줌으로서, 수집되는 트랙픽을 직관적으로 가정할수있게한다. 트리맵은 사각형모양의 데이터이다. 각 사각형의 사이즈와 컬러는 각 트래픽을 나타낸다. 따라서 데이터의 다른 부분들을 컨바인해서 하나로 만들수있다. 트리맵은 가설을 세울수있는 좋은도구이다. 왜냐면, 이것들은 개체들의 관계, 연관된 중요성을 보여주기 때문이다. Access the report
-Acqusition > All Traffic > TreemapsSelect what data appears in the report
+[GOOGLE] https://support.google.com/analytics/answer/6180144?hl=en&ref_topic=6010089  
+Treemaps 이란?  
+  트리맵 리포트는 시각적으로 트랜디한 채널을 알게 해줌으로서, 수집되는 트랙픽을 직관적으로 가정할수있게한다. 트리맵은 사각형모양의 데이터이다. 각 사각형의 사이즈와 컬러는 각 트래픽을 나타낸다. 따라서 데이터의 다른 부분들을 컨바인해서 하나로 만들수있다. 트리맵은 가설을 세울수있는 좋은도구이다. 왜냐면, 이것들은 개체들의 관계, 연관된 중요성을 보여주기 때문이다.  
+  Access the report
+Acqusition > All Traffic > TreemapsSelect what data appears in the report  
 리포트의 각 사각형은 하나의 획득 채널을 나타낸다. 사각형을 클릭하면 더 해당 채널을 더 자세히 볼수있다. 예를 들어, "소셜" 사각형을 클릭하면, 안으로 더 들어가서 트랜픽이 시작된, 각 소셜 네트워크를 보여준다. 
 
 각 사각형에있는 말 주머니아이콘 위로 마우스를 Hover하면 자세한 데이터를 확인할수있다. 
