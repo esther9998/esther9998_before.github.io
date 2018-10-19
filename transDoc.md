@@ -1,5 +1,5 @@
 1. [Parallel Tranking 병렬트랙킹](http://esther9998.github.io/transDoc)
-2. [Parallel Tranking 병렬트랙킹](http://esther9998.github.io/transDoc)
+2. [Treemap report](http://esther9998.github.io/transDoc/treemap.md)
 3. [Parallel Tranking 병렬트랙킹](http://esther9998.github.io/transDoc)
 
 1. parallel -  클릭후에 닫아도, 클릭수가 카운트됨.
