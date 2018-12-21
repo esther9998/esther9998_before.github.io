@@ -1,6 +1,6 @@
 ## 목록 
 * List [온라인 영문번역](http://esther9998.github.io/transDoc)	
-* 다시하는 JAVA 공부 [Link](http://esther9998.github.io/againJava)	
+* 다시하는 JAVA 공부 [Link](http://esther9998.github.io/againJava/ch01WhatIsJava)	
 	
 
 ### Markdown
